@@ -645,14 +645,14 @@ ul.social li a i {
 	width:70px;
 	height:70px;
 	display: block;
-	background: url(../images/img-sprite.png)no-repeat #ff33cc;
+	background: url(../images/img-sprite.png)no-repeat #000099;
 	border-radius:100px;
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	-o-border-radius:100px;
 }
 ul.social li a i:hover {
-	background: url(../images/img-sprite.png)no-repeat #ff33cc;
+	background: url(../images/img-sprite.png)no-repeat #000099;
 }
 ul.social li a i.fb {
 	background-position:4px -271px;
