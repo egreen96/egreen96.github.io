@@ -627,7 +627,7 @@ ul.portfolio_grids li{
 	padding:6em 0 0;
 }
 .footer_bottom{
-	background:#dcd9ae;
+	background:#0099ff;
 }
 ul.social {
 	padding:5em 0 0;
@@ -645,14 +645,14 @@ ul.social li a i {
 	width:70px;
 	height:70px;
 	display: block;
-	background: url(../images/img-sprite.png)no-repeat #9b7e3c;
+	background: url(../images/img-sprite.png)no-repeat #ff33cc;
 	border-radius:100px;
 	-webkit-border-radius:100px;
 	-moz-border-radius:100px;
 	-o-border-radius:100px;
 }
 ul.social li a i:hover {
-	background: url(../images/img-sprite.png)no-repeat #8e7231;
+	background: url(../images/img-sprite.png)no-repeat #ff33cc;
 }
 ul.social li a i.fb {
 	background-position:4px -271px;
