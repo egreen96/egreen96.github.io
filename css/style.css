@@ -267,7 +267,7 @@ i.icon1{
 	font-weight:bold;
 }
 .service_box:hover h3 a{
-	color:#9b7e3c;
+	color:#cc99ff;
 	text-decoration:none;
 }
 .service_box p{
@@ -347,7 +347,7 @@ ul.guy li.guy_desc h3 a, ul.guy li.guy_desc1 h3 a{
 	font-weight: bold;
 }
 ul.guy li.guy_desc h3 a:hover, ul.guy li.guy_desc1 h3 a:hover{
-	color:#9f7a40;
+	color:#cc99ff;
 	text-decoration:none;
 }
 ul.guy li.guy_desc p, ul.guy li.guy_desc1 p{
@@ -378,7 +378,7 @@ ul.guy li.guy_img1{
 /*--portfolio--*/
 .portfolio{
 	padding:6em 0 0;
-	background:#9b7e3c;
+	background:#cc99ff;
 }
 .top_box h3{
 	color:#fff;
