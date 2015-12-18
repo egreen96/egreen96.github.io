@@ -627,14 +627,7 @@ ul.portfolio_grids li{
 	padding:6em 0 0;
 }
 .footer_bottom{
-	bbackground: url(../images/bg.jpg);
-	padding:6em 0;
-	background-size: 100% 100%;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	background-position: center;
+	background:#0099ff;
 }
 ul.social {
 	padding:5em 0 0;
@@ -835,6 +828,7 @@ ul.guy li.guy_desc h3, ul.guy li.guy_desc1 h3 {
 }
 .contact {
 	padding: 3em 0 0;
+	background:#0099ff;
 }
 .view .mask, .view .content {
 	width: 207px;
