@@ -167,6 +167,12 @@ body a{
 	text-align:center;
 	padding:0em 0 5em;
 }
+.footer_bottom h2{
+	color:#333;
+	font-size:2em;
+	font-weight:bold;
+	text-transform:uppercase;
+}
 .top_box h2{
 	color:#333;
 	font-size:2em;
