@@ -544,7 +544,7 @@ ul.portfolio_grids li{
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
    filter: alpha(opacity=0);
    opacity: 0;
-   background-color:rgba(157, 130, 67, 0.68);
+   background-color: #cc99ff ;
    -webkit-transition: all 0.4s ease-in-out;
    -moz-transition: all 0.4s ease-in-out;
    -o-transition: all 0.4s ease-in-out;
