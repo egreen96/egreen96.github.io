@@ -347,7 +347,7 @@ ul.guy li.guy_desc h3 a, ul.guy li.guy_desc1 h3 a{
 	font-weight: bold;
 }
 ul.guy li.guy_desc h3 a:hover, ul.guy li.guy_desc1 h3 a:hover{
-	color:#cc99ff;
+	color:#000000;
 	text-decoration:none;
 }
 ul.guy li.guy_desc p, ul.guy li.guy_desc1 p{
