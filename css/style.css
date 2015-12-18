@@ -249,6 +249,10 @@ body a{
 	background-size: cover;
 	background-position: center;
 }
+
+.navbar{
+	background-color:#000000;
+}
 /*--services--*/
 .services{
 	background:#fff;
