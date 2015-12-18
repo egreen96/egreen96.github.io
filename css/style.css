@@ -827,8 +827,15 @@ ul.guy li.guy_desc h3, ul.guy li.guy_desc1 h3 {
 	margin: 0 auto;
 }
 .contact {
-	padding: 3em 0 0;
-	background:#0099ff;
+	background: url(../images/bg.jpg);
+	padding:6em 0;
+	text-align: center;
+	background-size: 100% 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
 }
 .view .mask, .view .content {
 	width: 207px;
