@@ -182,6 +182,9 @@ body a{
 .content_top {
 	padding:7em 0 8em;
 }
+.content_bottom {
+	padding:5em 0 6em;
+}
 .poll {
 	margin-bottom: 2em;
 }
