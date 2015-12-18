@@ -59,14 +59,14 @@ body a{
 	padding:10px;
 }
 #nav .current a {
-    color:#F0D4A8;
+    color:#000000;
    -webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
 .menu li a:hover ,.menu li.active a{
-	color:#F0D4A8;
+	color:#000000;
 } 
 .toggleMenu {
 	display:  none;
@@ -201,13 +201,13 @@ body a{
 .skills {
 	width: 100%;
 	margin: 10px 0;
-	border: 1px solid #dcd9ae;
+	border: 1px solid #000000;
 	height:20px;
 }
 .skills > div {
 	height: 100%;
 	display: block;
-	background-color:#dcd9ae;
+	background-color:#000000;
 }
 .contenttop_right h3{
 	color:#333;
@@ -222,7 +222,7 @@ body a{
 }
 .con-button {
 	color: white;
-	background: #9f7a40;
+	background: #000000;
 	-webkit-box-shadow: 3px 3px 0px 0px #c7c7c7;
 	-moz-box-shadow: 3px 3px 0px 0px #c7c7c7;
 	box-shadow: 3px 3px 0px 0px #c7c7c7;
