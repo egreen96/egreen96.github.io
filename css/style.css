@@ -234,7 +234,7 @@ body a{
 }
 .con-button:hover{
 	text-decoration:none;
-	background:#8e7231;
+	background:#000000;
 	color:#fff;
 }
 /*--work--*/
@@ -703,8 +703,8 @@ ul.social li a i.dribble{
 	color:#333;
 }
 .copy p a{
-	color:#9b7e3c;
-}
+	color:#000000;
+} /* just changed */
 #toTop {
 	display: none;
 	text-decoration: none;
